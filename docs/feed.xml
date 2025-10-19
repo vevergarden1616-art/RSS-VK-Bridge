@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>VK – (placeholder)</title>
+    <link>https://vk.com</link>
+    <description>Feed zbuduje się automatycznie po pierwszym uruchomieniu GitHub Actions.</description>
+    <lastBuildDate>Tue, 14 Oct 2025 10:53:01 +0000</lastBuildDate>
+    <item>
+      <title>RSS wkrótce będzie aktywny</title>
+      <link>https://vk.com</link>
+      <guid>placeholder-1760439181</guid>
+      <pubDate>Tue, 14 Oct 2025 10:53:01 +0000</pubDate>
+      <description>Uruchom workflow w zakładce Actions, aby pobrać realne posty.</description>
+    </item>
+  </channel>
+</rss>
